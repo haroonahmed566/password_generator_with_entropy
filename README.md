@@ -30,7 +30,7 @@ pip install -r requirements.txt  # optional, just includes pyperclip
 or 
 pip install pyperclip
 ```
-##⚙️ Usage
+## Usage
 
 python password_generator.py [options]
 🔧 CLI Options
