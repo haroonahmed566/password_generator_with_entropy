@@ -32,13 +32,13 @@ pip install pyperclip
 ```
 ## Usage
 
-python password_generator.py [options]
-🔧 CLI Options
-Flag	Description	Default
--l, --length	Length of the password	14
--nd, --no-digits	Exclude digits from the password	False
--ns, --no-special	Exclude special characters	False
--e, --entropy	Show entropy score of the generated password	False
+python password_generator.py [options] \n
+🔧 CLI Options\n
+Flag	Description	Default\n
+-l, --length	Length of the password	14 \n
+-nd, --no-digits	Exclude digits from the password	False \n
+-ns, --no-special	Exclude special characters	False \n
+-e, --entropy	Show entropy score of the generated password	False \n
 
 ## Examples
 Generate a secure 20-character password with digits and symbols:
