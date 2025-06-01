@@ -24,8 +24,8 @@ A Python-based command-line tool that generates **secure, random passwords** usi
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/secure-password-generator.git
-cd secure-password-generator
+git clone https://github.com/haroonahmed566/password_generator_with_entropy/
+cd password_generator_with_entropy
 pip install -r requirements.txt  # optional, just includes pyperclip
 or 
 pip install pyperclip
