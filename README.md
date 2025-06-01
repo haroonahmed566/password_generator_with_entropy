@@ -1,4 +1,4 @@
-# 🔐 Secure Password Generator (CLI)
+# 🔐 Password Generator With Entropy (CLI)
 
 A Python-based command-line tool that generates **secure, random passwords** using the `secrets` module — perfect for creating passwords that are safe from brute-force and dictionary attacks.
 
