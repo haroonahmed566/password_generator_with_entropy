@@ -54,7 +54,7 @@ Show entropy of the generated password:
 python password_generator.py -e
 
 ## Why secrets?
-Unlike Python’s random module, secrets uses cryptographically secure pseudorandom number generation (CSPRNG), making it suitable for password and token generation. Read more →
+Unlike Python’s random module, secrets uses cryptographically secure pseudorandom number generation (CSPRNG), making it suitable for password and token generation. Read more → https://docs.python.org/3/library/secrets.html
 
 ### Output Example
 
